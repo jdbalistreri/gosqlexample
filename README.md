@@ -10,9 +10,9 @@ https://golang.org/pkg/database/sql/
 https://github.com/go-sql-driver/mysql/
 
 ORMs:
-https://github.com/jmoiron/sqlx
-https://github.com/jinzhu/gorm
-https://github.com/go-gorp/gorp
+* [SQLX](https://github.com/jmoiron/sqlx)
+* [GORM](https://github.com/jinzhu/gorm)
+* [GORP](https://github.com/go-gorp/gorp)
 
 Should you use an ORM?
 http://www.hydrogen18.com/blog/golang-orms-and-why-im-still-not-using-one.html
